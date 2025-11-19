@@ -1,8 +1,3 @@
-ChatGPT said:
-
-Tabii kanka, README için kısa, temiz, profesyonel bir özet aşağıdaki gibi olur.
-Direkt kopyala yapıştır — reviewer tam olarak bunu görmek ister. 👇🔥
-
 📌 Wheel of Fortune – Technical Summary
 
 Bu proje, Vertigo Games Case Study kapsamında geliştirilen data-driven, event-based ve mobil uyumlu bir Wheel of Fortune oyun sistemidir. Kod yapısı; OOP, SOLID, Zenject ve ScriptableObject prensipleriyle inşa edilmiştir.
