@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64a344cd2e78e574aaed6d7d2b0af7af, type: 3}
+  m_Name: SilverData
+  m_EditorClassIdentifier: 
+  displayName: SILVER SPIN
+  wheelSprite: {fileID: 21300000, guid: b3134eb580f3ff248825a8607fffa405, type: 3}
+  sliceItems:
+  - {fileID: 11400000, guid: 4f2949a3ce63a5444981a4d770da0b9a, type: 2}
+  - {fileID: 11400000, guid: fc382b70a0d83f94eb07e7e79ff637fe, type: 2}
+  - {fileID: 11400000, guid: 0a3979998f3585646a9e8cc42e594e36, type: 2}
+  - {fileID: 11400000, guid: ea23cdad9d5982e46a9b6a525dd29597, type: 2}
+  - {fileID: 11400000, guid: aa9a6090dd06a2e43a3a8f161fbf8a14, type: 2}
+  - {fileID: 11400000, guid: 3d7a25d26b6045646b336db065356f72, type: 2}
+  - {fileID: 11400000, guid: b2d24aa1b9e3d8a4689343296bdb7eb8, type: 2}
+  - {fileID: 11400000, guid: 5fe955995f7f9e74694c39a0564153db, type: 2}
+  indicator: {fileID: 21300000, guid: dd5c20b36b6c82b4eb07d0dc011fcf7b, type: 3}
+  stageTextColor: {r: 0.6132076, g: 0.6132076, b: 0.6132076, a: 1}

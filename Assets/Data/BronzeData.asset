@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64a344cd2e78e574aaed6d7d2b0af7af, type: 3}
+  m_Name: BronzeData
+  m_EditorClassIdentifier: 
+  displayName: BRONZE SPIN
+  wheelSprite: {fileID: 21300000, guid: 8c6f45c5a02b41d4f9846db21e6598f3, type: 3}
+  sliceItems:
+  - {fileID: 11400000, guid: e838087208dd58d478c54b43dc2787e8, type: 2}
+  - {fileID: 11400000, guid: be0c3696d18084841ba44ae865cd0829, type: 2}
+  - {fileID: 11400000, guid: 2845a1855bd2c774d848393a5a4416f1, type: 2}
+  - {fileID: 11400000, guid: e65a693fa36fba94ab5b22eb37693c4b, type: 2}
+  - {fileID: 11400000, guid: 384b8eb4c3a8dad44be75fb4787efe29, type: 2}
+  - {fileID: 11400000, guid: 66b73e8114ab4c247aea18b6a1e6f1d9, type: 2}
+  - {fileID: 11400000, guid: f4f29dcc7789a2c469b87b7a27582fe8, type: 2}
+  - {fileID: 11400000, guid: 242869b8ff280d34480850d63cfa4b73, type: 2}
+  indicator: {fileID: 21300000, guid: b72c069d58cc6d84fa5479b065aae2f4, type: 3}
+  stageTextColor: {r: 0.4117647, g: 0.24705882, b: 0.08235294, a: 1}
